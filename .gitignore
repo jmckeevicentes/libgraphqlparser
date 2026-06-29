@@ -21,3 +21,4 @@ build/
 libgraphqlparser.pc
 JsonVisitor.cpp.inc
 JsonVisitor.h.inc
+result
